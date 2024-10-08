@@ -1,1 +1,1 @@
-<h5>Learning how to use Azure with Web Apps</h5>
+<h3>Learning how to use Azure with Web Apps</h3>
